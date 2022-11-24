@@ -1,4 +1,10 @@
+<<<<<<< HEAD
  [![Build Status](https://dev.azure.com/devops-agba/Github-azurepipeline/_apis/build/status/walexkino.ContosoAir?branchName=master)](https://dev.azure.com/devops-agba/Github-azurepipeline/_build/latest?definitionId=12&branchName=master)
+=======
+[![Build Status](https://dev.azure.com/devops-agba/Github-azurepipeline/_apis/build/status/walexkino.ContosoAir?branchName=master)](https://dev.azure.com/devops-agba/Github-azurepipeline/_build/latest?definitionId=12&branchName=master)
+
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+>>>>>>> 14efe969c04645073c29f6163a19379aafa8e654
 
 
 # Microsoft.Github CI Demo
