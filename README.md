@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/devops-agba/Github-azurepipeline/_apis/build/status/walexkino.ContosoAir?branchName=master)](https://dev.azure.com/devops-agba/Github-azurepipeline/_build/latest?definitionId=12&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
