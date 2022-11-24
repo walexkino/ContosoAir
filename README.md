@@ -1,5 +1,4 @@
-
- [![Build Status](https://dev.azure.com/devops-agba/Github-azurepipeline/_apis/build/status/walexkino.ContosoAir?branchName=master)](https://dev.azure.com/devops-agba/Github-azurepipeline/_build/latest?definitionId=12&branchName=master)
+[![Build Status](https://dev.azure.com/devops-agba/Github-azurepipeline/_apis/build/status/walexkino.ContosoAir?branchName=master)](https://dev.azure.com/devops-agba/Github-azurepipeline/_build/latest?definitionId=12&branchName=master)
 
 # Microsoft.Github CI Demo
 
